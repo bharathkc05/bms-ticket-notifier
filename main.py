@@ -20,10 +20,11 @@ import requests
 # CONFIGURATION — edit these or set via env vars
 # ──────────────────────────────────────────────────────────────────────
 CONFIG = {
-    "url": (os.getenv("BMS_URL") or "https://in.bookmyshow.com/movies/bengaluru/ramayana/ET00451914"),
-    "dates": os.getenv("BMS_DATES", ""),          # comma-separated YYYYMMDD, empty = from URL
-    "theatre": os.getenv("BMS_THEATRE", ""),       # substring filter, empty = all
-    "time_period": os.getenv("BMS_TIME", ""),      # e.g. "evening,night", empty = all
+    "url": (os.getenv("BMS_URL", "").strip().strip('"').strip("'")
+            or "https://in.bookmyshow.com/movies/bengaluru/ramayana/ET00451914"),
+    "dates": os.getenv("BMS_DATES", "").strip(),          # comma-separated YYYYMMDD, empty = from URL
+    "theatre": os.getenv("BMS_THEATRE", "").strip(),       # substring filter, empty = all
+    "time_period": os.getenv("BMS_TIME", "").strip(),      # e.g. "evening,night", empty = all
 }
 
 RESEND_API_KEY = os.getenv("RESEND_API_KEY", "")
@@ -99,18 +100,54 @@ class DateInfo:
 # URL PARSER + REGION RESOLVER
 # ──────────────────────────────────────────────────────────────────────
 def parse_bms_url(url):
+    url = url.strip().strip('"').strip("'")
     path = urlparse(url).path.strip("/")
     parts = path.split("/")
     result = {"event_code": None, "date_code": None, "region_slug": None}
+
     for p in parts:
+        # Exact match: /ET00451914
         if re.match(r"^ET\d{8,}$", p):
             result["event_code"] = p
-        elif re.match(r"^\d{8}$", p):
+        # Embedded in buytickets slug: movie-bang-ET00451914-MT
+        elif not result["event_code"]:
+            m = re.search(r"(ET\d{8,})", p)
+            if m:
+                result["event_code"] = m.group(1)
+        if re.match(r"^\d{8}$", p):
             result["date_code"] = p
-    if "movies" in parts:
-        idx = parts.index("movies")
+
+    # Region from /movies/<region>/ or /events/<region>/
+    for key in ("movies", "events"):
+        if key in parts:
+            idx = parts.index(key)
+            if idx + 1 < len(parts):
+                result["region_slug"] = parts[idx + 1]
+                break
+
+    # Fallback: extract region from buytickets slug like
+    # /buytickets/movie-name-bengaluru/movie-bang-ET00...-MT/...
+    if not result["region_slug"] and "buytickets" in parts:
+        idx = parts.index("buytickets")
+        # Check the slug after buytickets (e.g. "ramayana-bengaluru")
         if idx + 1 < len(parts):
-            result["region_slug"] = parts[idx + 1]
+            slug = parts[idx + 1]
+            for region_key in REGION_MAP:
+                if slug.endswith(f"-{region_key}") or slug == region_key:
+                    result["region_slug"] = region_key
+                    break
+        # Check the venue code slug (e.g. "movie-bang-ET00...-MT")
+        if not result["region_slug"] and idx + 2 < len(parts):
+            code_slug = parts[idx + 2].lower()
+            region_code_map = {v[0].lower(): k for k, v in REGION_MAP.items()}
+            m = re.match(r"movie-(\w+)-ET", code_slug, re.IGNORECASE)
+            if m:
+                prefix = m.group(1).lower()
+                for rk, rv in REGION_MAP.items():
+                    if rv[0].lower() == prefix or rk.startswith(prefix):
+                        result["region_slug"] = rk
+                        break
+
     return result
 
 
