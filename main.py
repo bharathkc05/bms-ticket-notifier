@@ -20,7 +20,7 @@ import requests
 # CONFIGURATION — edit these or set via env vars
 # ──────────────────────────────────────────────────────────────────────
 CONFIG = {
-    "url": (os.getenv("BMS_URL") or "https://in.bookmyshow.com/..."),
+    "url": (os.getenv("BMS_URL") or "https://in.bookmyshow.com/movies/bengaluru/ramayana/ET00451914"),
     "dates": os.getenv("BMS_DATES", ""),          # comma-separated YYYYMMDD, empty = from URL
     "theatre": os.getenv("BMS_THEATRE", ""),       # substring filter, empty = all
     "time_period": os.getenv("BMS_TIME", ""),      # e.g. "evening,night", empty = all
