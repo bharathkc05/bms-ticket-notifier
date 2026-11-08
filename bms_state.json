@@ -1,1013 +1,1389 @@
 {
   "shows": {
-    "IMMO|67971|20261106|PRIME ROWS": {
+    "IMMO|68070|20261108|PRIME ROWS": {
       "venue": "INOX: Megaplex Mall of Asia Bangalore",
       "time": "04:25 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "PRIME ROWS",
-      "price": "650.00",
-      "status": "1"
+      "price": "700.00",
+      "status": "0"
     },
-    "IMMO|67971|20261106|CLASSIC PLUS ROWS": {
+    "IMMO|68070|20261108|CLASSIC PLUS ROWS": {
       "venue": "INOX: Megaplex Mall of Asia Bangalore",
       "time": "04:25 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "650.00",
+      "status": "0"
+    },
+    "IMMO|68070|20261108|CLASSIC ROWS": {
+      "venue": "INOX: Megaplex Mall of Asia Bangalore",
+      "time": "04:25 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
       "price": "600.00",
       "status": "1"
     },
-    "IMMO|67971|20261106|CLASSIC ROWS": {
-      "venue": "INOX: Megaplex Mall of Asia Bangalore",
-      "time": "04:25 PM",
-      "date": "20261106",
-      "cat": "CLASSIC ROWS",
-      "price": "450.00",
+    "PVOO|57997|20261108|RECLINER ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "10:15 PM",
+      "date": "20261108",
+      "cat": "RECLINER ROWS",
+      "price": "1010.00",
+      "status": "2"
+    },
+    "PVOO|57997|20261108|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "10:15 PM",
+      "date": "20261108",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "750.00",
+      "status": "2"
+    },
+    "PVOO|57997|20261108|PRIME ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "10:15 PM",
+      "date": "20261108",
+      "cat": "PRIME ROWS",
+      "price": "700.00",
+      "status": "2"
+    },
+    "PVOO|57997|20261108|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "10:15 PM",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "520.00",
       "status": "3"
     },
-    "PSPR|61116|20261106|RECLINER ROWS": {
+    "PVOO|57997|20261108|CLASSIC ROWS": {
+      "venue": "PVR: Orion Mall, Dr Rajkumar Road",
+      "time": "10:15 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|17873|20261108|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "01:10 PM",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "1"
+    },
+    "CFBS|17873|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "01:10 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "0"
+    },
+    "CFBS|17873|20261108|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "01:10 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "630.00",
+      "status": "0"
+    },
+    "CFBS|17873|20261108|RECLINER": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "01:10 PM",
+      "date": "20261108",
+      "cat": "RECLINER",
+      "price": "1190.00",
+      "status": "0"
+    },
+    "CFBS|17874|20261108|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "05:20 PM",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|17874|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "05:20 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "1"
+    },
+    "CFBS|17874|20261108|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "05:20 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "630.00",
+      "status": "1"
+    },
+    "CFBS|17874|20261108|RECLINER": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "05:20 PM",
+      "date": "20261108",
+      "cat": "RECLINER",
+      "price": "1190.00",
+      "status": "0"
+    },
+    "CFBS|17875|20261108|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "09:30 PM",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|17875|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "09:30 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "2"
+    },
+    "CFBS|17875|20261108|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "09:30 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "630.00",
+      "status": "1"
+    },
+    "CFBS|17875|20261108|RECLINER": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "09:30 PM",
+      "date": "20261108",
+      "cat": "RECLINER",
+      "price": "1190.00",
+      "status": "0"
+    },
+    "CFBS|18093|20261108|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:05 PM",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "CFBS|18093|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:05 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "450.00",
+      "status": "2"
+    },
+    "CFBS|18093|20261108|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:05 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "510.00",
+      "status": "1"
+    },
+    "CFBS|18093|20261108|PREMIUM XL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:05 PM",
+      "date": "20261108",
+      "cat": "PREMIUM XL",
+      "price": "560.00",
+      "status": "1"
+    },
+    "CFBS|18093|20261108|PREMIUM PLUS": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:05 PM",
+      "date": "20261108",
+      "cat": "PREMIUM PLUS",
+      "price": "530.00",
+      "status": "1"
+    },
+    "CFBS|18093|20261108|RECLINER": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:05 PM",
+      "date": "20261108",
+      "cat": "RECLINER",
+      "price": "900.00",
+      "status": "1"
+    },
+    "CFBS|18129|20261108|NORMAL": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:25 PM",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CFBS|18129|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:25 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "590.00",
+      "status": "3"
+    },
+    "CFBS|18129|20261108|PREMIUM": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:25 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "660.00",
+      "status": "2"
+    },
+    "CFBS|18129|20261108|RECLINER": {
+      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
+      "time": "10:25 PM",
+      "date": "20261108",
+      "cat": "RECLINER",
+      "price": "1220.00",
+      "status": "0"
+    },
+    "PSPR|61174|20261108|RECLINER ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
       "time": "01:50 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "RECLINER ROWS",
       "price": "1000.00",
       "status": "0"
     },
-    "PSPR|61116|20261106|PRIME ROWS": {
+    "PSPR|61174|20261108|PRIME ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
       "time": "01:50 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "PRIME ROWS",
       "price": "650.00",
       "status": "0"
     },
-    "PSPR|61116|20261106|CLASSIC PLUS ROWS": {
+    "PSPR|61174|20261108|CLASSIC PLUS ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
       "time": "01:50 PM",
-      "date": "20261106",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "550.00",
+      "status": "0"
+    },
+    "PSPR|61174|20261108|CLASSIC ROWS": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "01:50 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
+      "price": "500.00",
+      "status": "1"
+    },
+    "PSPR|61221|20261108|RECLINER ROWS": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "09:20 PM",
+      "date": "20261108",
+      "cat": "RECLINER ROWS",
+      "price": "880.00",
+      "status": "0"
+    },
+    "PSPR|61221|20261108|PRIME ROWS": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "09:20 PM",
+      "date": "20261108",
+      "cat": "PRIME ROWS",
+      "price": "530.00",
+      "status": "0"
+    },
+    "PSPR|61221|20261108|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "09:20 PM",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "460.00",
+      "status": "0"
+    },
+    "PSPR|61221|20261108|CLASSIC ROWS": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "09:20 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
+      "price": "410.00",
+      "status": "3"
+    },
+    "PSPR|61176|20261108|RECLINER ROWS": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "10:00 PM",
+      "date": "20261108",
+      "cat": "RECLINER ROWS",
+      "price": "1000.00",
+      "status": "1"
+    },
+    "PSPR|61176|20261108|PRIME ROWS": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "10:00 PM",
+      "date": "20261108",
+      "cat": "PRIME ROWS",
+      "price": "650.00",
+      "status": "1"
+    },
+    "PSPR|61176|20261108|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "10:00 PM",
+      "date": "20261108",
       "cat": "CLASSIC PLUS ROWS",
       "price": "550.00",
       "status": "1"
     },
-    "PSPR|61116|20261106|CLASSIC ROWS": {
+    "PSPR|61176|20261108|CLASSIC ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
-      "time": "01:50 PM",
-      "date": "20261106",
+      "time": "10:00 PM",
+      "date": "20261108",
       "cat": "CLASSIC ROWS",
       "price": "380.00",
       "status": "3"
     },
-    "PSPR|61118|20261106|RECLINER ROWS": {
+    "PSPR|61222|20261108|RECLINER ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
-      "time": "10:00 PM",
-      "date": "20261106",
+      "time": "10:30 PM",
+      "date": "20261108",
       "cat": "RECLINER ROWS",
-      "price": "1000.00",
-      "status": "0"
+      "price": "880.00",
+      "status": "1"
     },
-    "PSPR|61118|20261106|PRIME ROWS": {
+    "PSPR|61222|20261108|PRIME ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
-      "time": "10:00 PM",
-      "date": "20261106",
+      "time": "10:30 PM",
+      "date": "20261108",
       "cat": "PRIME ROWS",
-      "price": "650.00",
-      "status": "0"
+      "price": "530.00",
+      "status": "1"
     },
-    "PSPR|61118|20261106|CLASSIC PLUS ROWS": {
+    "PSPR|61222|20261108|CLASSIC PLUS ROWS": {
       "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
-      "time": "10:00 PM",
-      "date": "20261106",
+      "time": "10:30 PM",
+      "date": "20261108",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "550.00",
-      "status": "0"
-    },
-    "PSPR|61118|20261106|CLASSIC ROWS": {
-      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
-      "time": "10:00 PM",
-      "date": "20261106",
-      "cat": "CLASSIC ROWS",
       "price": "460.00",
-      "status": "3"
-    },
-    "CFBS|17863|20261106|NORMAL": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "01:10 PM",
-      "date": "20261106",
-      "cat": "NORMAL",
-      "price": "420.00",
-      "status": "3"
-    },
-    "CFBS|17863|20261106|EXECUTIVE": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "01:10 PM",
-      "date": "20261106",
-      "cat": "EXECUTIVE",
-      "price": "470.00",
-      "status": "2"
-    },
-    "CFBS|17863|20261106|PREMIUM": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "01:10 PM",
-      "date": "20261106",
-      "cat": "PREMIUM",
-      "price": "530.00",
       "status": "1"
     },
-    "CFBS|17863|20261106|RECLINER": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "01:10 PM",
-      "date": "20261106",
-      "cat": "RECLINER",
-      "price": "920.00",
-      "status": "0"
-    },
-    "CFBS|17864|20261106|NORMAL": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "05:20 PM",
-      "date": "20261106",
-      "cat": "NORMAL",
-      "price": "420.00",
+    "PSPR|61222|20261108|CLASSIC ROWS": {
+      "venue": "PVR: Superplex Forum Mall, Kanakapura Road",
+      "time": "10:30 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
+      "price": "380.00",
       "status": "3"
     },
-    "CFBS|17864|20261106|EXECUTIVE": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "05:20 PM",
-      "date": "20261106",
-      "cat": "EXECUTIVE",
-      "price": "470.00",
-      "status": "2"
-    },
-    "CFBS|17864|20261106|PREMIUM": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "05:20 PM",
-      "date": "20261106",
-      "cat": "PREMIUM",
-      "price": "530.00",
-      "status": "1"
-    },
-    "CFBS|17864|20261106|RECLINER": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "05:20 PM",
-      "date": "20261106",
-      "cat": "RECLINER",
-      "price": "920.00",
-      "status": "0"
-    },
-    "CFBS|17865|20261106|NORMAL": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "09:30 PM",
-      "date": "20261106",
-      "cat": "NORMAL",
-      "price": "450.00",
-      "status": "3"
-    },
-    "CFBS|17865|20261106|EXECUTIVE": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "09:30 PM",
-      "date": "20261106",
-      "cat": "EXECUTIVE",
-      "price": "470.00",
-      "status": "1"
-    },
-    "CFBS|17865|20261106|PREMIUM": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "09:30 PM",
-      "date": "20261106",
-      "cat": "PREMIUM",
-      "price": "550.00",
-      "status": "0"
-    },
-    "CFBS|17865|20261106|RECLINER": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "09:30 PM",
-      "date": "20261106",
-      "cat": "RECLINER",
-      "price": "900.00",
-      "status": "0"
-    },
-    "ACKB|15547|20261106|MAJESTIC": {
+    "ACKB|15546|20261108|GRAND": {
       "venue": "AMB Cinemas Kapali: Bengaluru",
-      "time": "09:50 PM",
-      "date": "20261106",
-      "cat": "MAJESTIC",
-      "price": "800.00",
-      "status": "2"
-    },
-    "ACKB|15547|20261106|GRAND": {
-      "venue": "AMB Cinemas Kapali: Bengaluru",
-      "time": "09:50 PM",
-      "date": "20261106",
+      "time": "10:25 PM",
+      "date": "20261108",
       "cat": "GRAND",
       "price": "600.00",
-      "status": "2"
+      "status": "3"
     },
-    "ACKB|15547|20261106|CLASSIC": {
+    "ACKB|15546|20261108|CLASSIC": {
       "venue": "AMB Cinemas Kapali: Bengaluru",
-      "time": "09:50 PM",
-      "date": "20261106",
+      "time": "10:25 PM",
+      "date": "20261108",
       "cat": "CLASSIC",
       "price": "400.00",
       "status": "3"
     },
-    "PVER|62082|20261106|GOLD PRIME": {
+    "CEHR|32860|20261108|GOLD": {
+      "venue": "Cinephile HSR Layout: PNR Felicity Mall Haralur Rd",
+      "time": "10:30 PM",
+      "date": "20261108",
+      "cat": "GOLD",
+      "price": "450.00",
+      "status": "2"
+    },
+    "PVER|62182|20261108|GOLD PRIME": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "06:10 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD PRIME",
       "price": "1500.00",
-      "status": "0"
+      "status": "1"
     },
-    "PVER|62082|20261106|GOLD": {
+    "PVER|62182|20261108|GOLD": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "06:10 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
       "price": "1400.00",
-      "status": "2"
-    },
-    "CLGM|12719|20261106|NORMAL": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "01:00 PM",
-      "date": "20261106",
-      "cat": "NORMAL",
-      "price": "430.00",
-      "status": "3"
-    },
-    "CLGM|12719|20261106|EXECUTIVE": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "01:00 PM",
-      "date": "20261106",
-      "cat": "EXECUTIVE",
-      "price": "490.00",
-      "status": "3"
-    },
-    "CLGM|12719|20261106|PREMIUM": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "01:00 PM",
-      "date": "20261106",
-      "cat": "PREMIUM",
-      "price": "510.00",
-      "status": "3"
-    },
-    "CLGM|12719|20261106|PREMIUM XL": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "01:00 PM",
-      "date": "20261106",
-      "cat": "PREMIUM XL",
-      "price": "550.00",
-      "status": "2"
-    },
-    "CLGM|12719|20261106|PREMIUM PLUS": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "01:00 PM",
-      "date": "20261106",
-      "cat": "PREMIUM PLUS",
-      "price": "530.00",
-      "status": "3"
-    },
-    "CLGM|12720|20261106|NORMAL": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "05:15 PM",
-      "date": "20261106",
-      "cat": "NORMAL",
-      "price": "460.00",
-      "status": "3"
-    },
-    "CLGM|12720|20261106|EXECUTIVE": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "05:15 PM",
-      "date": "20261106",
-      "cat": "EXECUTIVE",
-      "price": "520.00",
-      "status": "3"
-    },
-    "CLGM|12720|20261106|PREMIUM": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "05:15 PM",
-      "date": "20261106",
-      "cat": "PREMIUM",
-      "price": "540.00",
-      "status": "2"
-    },
-    "CLGM|12720|20261106|PREMIUM XL": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "05:15 PM",
-      "date": "20261106",
-      "cat": "PREMIUM XL",
-      "price": "580.00",
       "status": "1"
     },
-    "CLGM|12720|20261106|PREMIUM PLUS": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "05:15 PM",
-      "date": "20261106",
-      "cat": "PREMIUM PLUS",
-      "price": "560.00",
-      "status": "1"
-    },
-    "CLGM|12721|20261106|NORMAL": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "09:30 PM",
-      "date": "20261106",
-      "cat": "NORMAL",
-      "price": "490.00",
-      "status": "3"
-    },
-    "CLGM|12721|20261106|EXECUTIVE": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "09:30 PM",
-      "date": "20261106",
-      "cat": "EXECUTIVE",
-      "price": "550.00",
-      "status": "3"
-    },
-    "CLGM|12721|20261106|PREMIUM": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "09:30 PM",
-      "date": "20261106",
-      "cat": "PREMIUM",
-      "price": "570.00",
-      "status": "2"
-    },
-    "CLGM|12721|20261106|PREMIUM XL": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "09:30 PM",
-      "date": "20261106",
-      "cat": "PREMIUM XL",
-      "price": "610.00",
-      "status": "1"
-    },
-    "CLGM|12721|20261106|PREMIUM PLUS": {
-      "venue": "Cinepolis: Lulu Mall, Bengaluru",
-      "time": "09:30 PM",
-      "date": "20261106",
-      "cat": "PREMIUM PLUS",
-      "price": "590.00",
-      "status": "1"
-    },
-    "PBMM|38527|20261106|RECLINER ROWS": {
+    "PBMM|38529|20261108|RECLINER ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "10:00 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "RECLINER ROWS",
       "price": "1200.00",
-      "status": "0"
+      "status": "1"
     },
-    "PBMM|38527|20261106|PRIME PLUS ROWS": {
+    "PBMM|38529|20261108|PRIME PLUS ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "10:00 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "PRIME PLUS ROWS",
       "price": "660.00",
-      "status": "0"
+      "status": "1"
     },
-    "PBMM|38527|20261106|PRIME ROWS": {
+    "PBMM|38529|20261108|PRIME ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "10:00 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "PRIME ROWS",
       "price": "640.00",
       "status": "1"
     },
-    "PBMM|38527|20261106|CLASSIC PLUS ROWS": {
+    "PBMM|38529|20261108|CLASSIC PLUS ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "10:00 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "CLASSIC PLUS ROWS",
-      "price": "520.00",
-      "status": "3"
+      "price": "620.00",
+      "status": "1"
     },
-    "PBMM|38527|20261106|CLASSIC ROWS": {
+    "PBMM|38529|20261108|CLASSIC ROWS": {
       "venue": "PVR: Bhartiya Mall of Bengaluru",
       "time": "10:00 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "CLASSIC ROWS",
       "price": "400.00",
       "status": "3"
     },
-    "PVWW|44245|20261106|GOLD PRIME": {
+    "CLGM|12777|20261108|NORMAL": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "12:50 PM",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CLGM|12777|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "12:50 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "580.00",
+      "status": "1"
+    },
+    "CLGM|12777|20261108|PREMIUM": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "12:50 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "600.00",
+      "status": "0"
+    },
+    "CLGM|12777|20261108|PREMIUM XL": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "12:50 PM",
+      "date": "20261108",
+      "cat": "PREMIUM XL",
+      "price": "640.00",
+      "status": "1"
+    },
+    "CLGM|12777|20261108|PREMIUM PLUS": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "12:50 PM",
+      "date": "20261108",
+      "cat": "PREMIUM PLUS",
+      "price": "620.00",
+      "status": "0"
+    },
+    "CLGM|12778|20261108|NORMAL": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "05:05 PM",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "500.00",
+      "status": "3"
+    },
+    "CLGM|12778|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "05:05 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "580.00",
+      "status": "2"
+    },
+    "CLGM|12778|20261108|PREMIUM": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "05:05 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "600.00",
+      "status": "1"
+    },
+    "CLGM|12778|20261108|PREMIUM XL": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "05:05 PM",
+      "date": "20261108",
+      "cat": "PREMIUM XL",
+      "price": "640.00",
+      "status": "1"
+    },
+    "CLGM|12778|20261108|PREMIUM PLUS": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "05:05 PM",
+      "date": "20261108",
+      "cat": "PREMIUM PLUS",
+      "price": "620.00",
+      "status": "0"
+    },
+    "CLGM|12779|20261108|NORMAL": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "09:20 PM",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "490.00",
+      "status": "3"
+    },
+    "CLGM|12779|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "09:20 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "550.00",
+      "status": "3"
+    },
+    "CLGM|12779|20261108|PREMIUM": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "09:20 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "570.00",
+      "status": "2"
+    },
+    "CLGM|12779|20261108|PREMIUM XL": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "09:20 PM",
+      "date": "20261108",
+      "cat": "PREMIUM XL",
+      "price": "610.00",
+      "status": "1"
+    },
+    "CLGM|12779|20261108|PREMIUM PLUS": {
+      "venue": "Cinepolis: Lulu Mall, Bengaluru",
+      "time": "09:20 PM",
+      "date": "20261108",
+      "cat": "PREMIUM PLUS",
+      "price": "590.00",
+      "status": "1"
+    },
+    "PVWW|44327|20261108|GOLD PRIME": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
       "time": "01:35 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD PRIME",
+      "price": "1700.00",
+      "status": "0"
+    },
+    "PVWW|44327|20261108|GOLD": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "01:35 PM",
+      "date": "20261108",
+      "cat": "GOLD",
       "price": "1600.00",
       "status": "0"
     },
-    "PVWW|44245|20261106|GOLD": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "01:35 PM",
-      "date": "20261106",
-      "cat": "GOLD",
-      "price": "1500.00",
-      "status": "2"
-    },
-    "PVWW|44220|20261106|GOLD PRIME": {
+    "PVWW|44275|20261108|GOLD PRIME": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
       "time": "09:30 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD PRIME",
-      "price": "1650.00",
+      "price": "1600.00",
       "status": "1"
     },
-    "PVWW|44220|20261106|GOLD": {
+    "PVWW|44275|20261108|GOLD": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
       "time": "09:30 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
-      "price": "1550.00",
+      "price": "1400.00",
+      "status": "3"
+    },
+    "PVWW|44354|20261108|GOLD PRIME": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "09:45 PM",
+      "date": "20261108",
+      "cat": "GOLD PRIME",
+      "price": "1600.00",
       "status": "2"
     },
-    "GPGM|109369|20261106|GOLD": {
+    "PVWW|44354|20261108|GOLD": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "09:45 PM",
+      "date": "20261108",
+      "cat": "GOLD",
+      "price": "1450.00",
+      "status": "3"
+    },
+    "PVWW|44355|20261108|RECLINER ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "10:15 PM",
+      "date": "20261108",
+      "cat": "RECLINER ROWS",
+      "price": "860.00",
+      "status": "1"
+    },
+    "PVWW|44355|20261108|PRIME ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "10:15 PM",
+      "date": "20261108",
+      "cat": "PRIME ROWS",
+      "price": "460.00",
+      "status": "1"
+    },
+    "PVWW|44355|20261108|CLASSIC PLUS ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "10:15 PM",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "430.00",
+      "status": "2"
+    },
+    "PVWW|44355|20261108|CLASSIC ROWS": {
+      "venue": "PVR: VR Bengaluru, Whitefield Road",
+      "time": "10:15 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CNRM|11250|20261108|NORMAL": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "10:30 PM",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "650.00",
+      "status": "3"
+    },
+    "CNRM|11250|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "10:30 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "690.00",
+      "status": "3"
+    },
+    "CNRM|11250|20261108|PREMIUM": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "10:30 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "710.00",
+      "status": "2"
+    },
+    "CNRM|11250|20261108|PREMIUM XL": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "10:30 PM",
+      "date": "20261108",
+      "cat": "PREMIUM XL",
+      "price": "750.00",
+      "status": "0"
+    },
+    "CNRM|11250|20261108|PREMIUM PLUS": {
+      "venue": "Cinepolis: Royal Meenakshi Mall",
+      "time": "10:30 PM",
+      "date": "20261108",
+      "cat": "PREMIUM PLUS",
+      "price": "730.00",
+      "status": "1"
+    },
+    "GPGM|109501|20261108|GOLD": {
       "venue": "Gopalan Grand Mall: Old Madras Road",
       "time": "10:30 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PGFD|35535|20261108|RECLINER ROWS": {
+      "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
+      "time": "09:40 PM",
+      "date": "20261108",
+      "cat": "RECLINER ROWS",
+      "price": "1100.00",
+      "status": "0"
+    },
+    "PGFD|35535|20261108|PRIME ROWS": {
+      "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
+      "time": "09:40 PM",
+      "date": "20261108",
+      "cat": "PRIME ROWS",
+      "price": "600.00",
+      "status": "1"
+    },
+    "PGFD|35535|20261108|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
+      "time": "09:40 PM",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "550.00",
+      "status": "1"
+    },
+    "PGFD|35535|20261108|CLASSIC ROWS": {
+      "venue": "PVR: Global Mall, Mysore Road, Bengaluru",
+      "time": "09:40 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
       "price": "400.00",
       "status": "3"
     },
-    "PMBR|25517|20261106|RECLINER ROWS": {
-      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
-      "time": "12:25 PM",
-      "date": "20261106",
-      "cat": "RECLINER ROWS",
-      "price": "670.00",
-      "status": "0"
-    },
-    "PMBR|25517|20261106|PRIME ROWS": {
-      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
-      "time": "12:25 PM",
-      "date": "20261106",
-      "cat": "PRIME ROWS",
-      "price": "390.00",
+    "PMSR|34221|20261108|CLASSIC PLUS ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "10:10 PM",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "600.00",
       "status": "1"
     },
-    "PMBR|25517|20261106|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
-      "time": "12:25 PM",
-      "date": "20261106",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "340.00",
-      "status": "3"
+    "PMSR|34221|20261108|PRIME ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "10:10 PM",
+      "date": "20261108",
+      "cat": "PRIME ROWS",
+      "price": "500.00",
+      "status": "1"
     },
-    "PMBR|25517|20261106|CLASSIC ROWS": {
-      "venue": "PVR: Orion Uptown, Old Madras Road, Bengaluru",
-      "time": "12:25 PM",
-      "date": "20261106",
+    "PMSR|34221|20261108|CLASSIC ROWS": {
+      "venue": "PVR: MSR Elements Mall, Tanisandhra Main Road",
+      "time": "10:10 PM",
+      "date": "20261108",
       "cat": "CLASSIC ROWS",
-      "price": "300.00",
+      "price": "400.00",
       "status": "3"
     },
-    "PPNX|47018|20261106|RECLINER ROWS": {
+    "CPJR|10726|20261108|NORMAL": {
+      "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
+      "time": "06:25 PM",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "700.00",
+      "status": "3"
+    },
+    "CPJR|10726|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
+      "time": "06:25 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "800.00",
+      "status": "3"
+    },
+    "CPJR|10726|20261108|EXECUTIVE XL": {
+      "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
+      "time": "06:25 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE XL",
+      "price": "800.00",
+      "status": "3"
+    },
+    "CPJR|10726|20261108|PREMIUM": {
+      "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
+      "time": "06:25 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "800.00",
+      "status": "2"
+    },
+    "CPJR|10726|20261108|RECLINER": {
+      "venue": "Cinepolis: SJR (Central Mall) Arekere, Bannergatta",
+      "time": "06:25 PM",
+      "date": "20261108",
+      "cat": "RECLINER",
+      "price": "1500.00",
+      "status": "3"
+    },
+    "PPNX|47061|20261108|RECLINER ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
       "time": "10:15 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "RECLINER ROWS",
       "price": "1050.00",
-      "status": "0"
+      "status": "1"
     },
-    "PPNX|47018|20261106|PRIME ROWS": {
+    "PPNX|47061|20261108|PRIME ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
       "time": "10:15 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "PRIME ROWS",
       "price": "550.00",
       "status": "1"
     },
-    "PPNX|47018|20261106|CLASSIC PLUS ROWS": {
+    "PPNX|47061|20261108|CLASSIC PLUS ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
       "time": "10:15 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "CLASSIC PLUS ROWS",
       "price": "500.00",
       "status": "1"
     },
-    "PPNX|47018|20261106|CLASSIC ROWS": {
+    "PPNX|47061|20261108|CLASSIC ROWS": {
       "venue": "PVR: Phoenix Marketcity Mall, Whitefield Road",
       "time": "10:15 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "CLASSIC ROWS",
       "price": "400.00",
       "status": "3"
     },
-    "CPEB|11328|20261106|NORMAL": {
+    "PZVK|30535|20261108|RECLINER ROWS": {
+      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
+      "time": "05:55 PM",
+      "date": "20261108",
+      "cat": "RECLINER ROWS",
+      "price": "1150.00",
+      "status": "0"
+    },
+    "PZVK|30535|20261108|PRIME ROWS": {
+      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
+      "time": "05:55 PM",
+      "date": "20261108",
+      "cat": "PRIME ROWS",
+      "price": "650.00",
+      "status": "1"
+    },
+    "PZVK|30535|20261108|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
+      "time": "05:55 PM",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "600.00",
+      "status": "1"
+    },
+    "PZVK|30535|20261108|CLASSIC ROWS": {
+      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
+      "time": "05:55 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
+      "price": "450.00",
+      "status": "3"
+    },
+    "CPEB|11520|20261108|NORMAL": {
       "venue": "Cinepolis: Binnypet Mall",
-      "time": "09:25 PM",
-      "date": "20261106",
+      "time": "03:35 PM",
+      "date": "20261108",
       "cat": "NORMAL",
       "price": "400.00",
       "status": "3"
     },
-    "CPEB|11328|20261106|EXECUTIVE": {
+    "CPEB|11520|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "03:35 PM",
+      "date": "20261108",
+      "cat": "EXECUTIVE",
+      "price": "450.00",
+      "status": "1"
+    },
+    "CPEB|11520|20261108|PREMIUM": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "03:35 PM",
+      "date": "20261108",
+      "cat": "PREMIUM",
+      "price": "500.00",
+      "status": "1"
+    },
+    "CPEB|11378|20261108|NORMAL": {
       "venue": "Cinepolis: Binnypet Mall",
       "time": "09:25 PM",
-      "date": "20261106",
+      "date": "20261108",
+      "cat": "NORMAL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "CPEB|11378|20261108|EXECUTIVE": {
+      "venue": "Cinepolis: Binnypet Mall",
+      "time": "09:25 PM",
+      "date": "20261108",
       "cat": "EXECUTIVE",
       "price": "450.00",
       "status": "3"
     },
-    "CPEB|11328|20261106|PREMIUM": {
+    "CPEB|11378|20261108|PREMIUM": {
       "venue": "Cinepolis: Binnypet Mall",
       "time": "09:25 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "PREMIUM",
-      "price": "500.00",
-      "status": "3"
-    },
-    "PZVK|30500|20261106|RECLINER ROWS": {
-      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
-      "time": "05:55 PM",
-      "date": "20261106",
-      "cat": "RECLINER ROWS",
-      "price": "1150.00",
-      "status": "1"
-    },
-    "PZVK|30500|20261106|PRIME ROWS": {
-      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
-      "time": "05:55 PM",
-      "date": "20261106",
-      "cat": "PRIME ROWS",
-      "price": "650.00",
+      "price": "540.00",
       "status": "2"
     },
-    "PZVK|30500|20261106|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
-      "time": "05:55 PM",
-      "date": "20261106",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "520.00",
-      "status": "3"
-    },
-    "PZVK|30500|20261106|CLASSIC ROWS": {
-      "venue": "PVR: Vaishnavi Sapphire Mall, Yeshwanthpur",
-      "time": "05:55 PM",
-      "date": "20261106",
-      "cat": "CLASSIC ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
-    "GPAM|93892|20261106|GOLD": {
+    "GPAM|93922|20261108|GOLD": {
       "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
       "time": "03:45 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
-      "price": "400.00",
-      "status": "3"
+      "price": "600.00",
+      "status": "1"
     },
-    "GPAM|93892|20261106|SOFA": {
+    "GPAM|93922|20261108|SOFA": {
       "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
       "time": "03:45 PM",
-      "date": "20261106",
+      "date": "20261108",
+      "cat": "SOFA",
+      "price": "700.00",
+      "status": "0"
+    },
+    "GPAM|93924|20261108|GOLD": {
+      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
+      "time": "10:30 PM",
+      "date": "20261108",
+      "cat": "GOLD",
+      "price": "450.00",
+      "status": "2"
+    },
+    "GPAM|93924|20261108|SOFA": {
+      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
+      "time": "10:30 PM",
+      "date": "20261108",
       "cat": "SOFA",
       "price": "500.00",
       "status": "1"
     },
-    "GPAM|93893|20261106|GOLD": {
-      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
-      "time": "10:30 PM",
-      "date": "20261106",
+    "GPBR|97604|20261108|GOLD": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "04:15 PM",
+      "date": "20261108",
       "cat": "GOLD",
-      "price": "450.00",
-      "status": "3"
-    },
-    "GPAM|93893|20261106|SOFA": {
-      "venue": "Gopalan Cinemas: Arcade Mall, Mysore Road",
-      "time": "10:30 PM",
-      "date": "20261106",
-      "cat": "SOFA",
       "price": "500.00",
-      "status": "0"
-    },
-    "GPBR|97571|20261106|GOLD": {
-      "venue": "Gopalan Cinemas: Bannerghatta Road",
-      "time": "04:15 PM",
-      "date": "20261106",
-      "cat": "GOLD",
-      "price": "450.00",
-      "status": "3"
-    },
-    "GPBR|97571|20261106|SOFA": {
-      "venue": "Gopalan Cinemas: Bannerghatta Road",
-      "time": "04:15 PM",
-      "date": "20261106",
-      "cat": "SOFA",
-      "price": "550.00",
-      "status": "0"
-    },
-    "INBJ|70537|20261106|PICTURE PERFECT": {
-      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
-      "time": "01:50 PM",
-      "date": "20261106",
-      "cat": "PICTURE PERFECT",
-      "price": "470.00",
-      "status": "2"
-    },
-    "INBJ|70537|20261106|PRIME ROWS": {
-      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
-      "time": "01:50 PM",
-      "date": "20261106",
-      "cat": "PRIME ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "INBJ|70537|20261106|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
-      "time": "01:50 PM",
-      "date": "20261106",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "390.00",
-      "status": "3"
-    },
-    "INBJ|70537|20261106|CLASSIC ROWS": {
-      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
-      "time": "01:50 PM",
-      "date": "20261106",
-      "cat": "CLASSIC ROWS",
-      "price": "350.00",
-      "status": "3"
-    },
-    "INBJ|70538|20261106|PICTURE PERFECT": {
-      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
-      "time": "10:00 PM",
-      "date": "20261106",
-      "cat": "PICTURE PERFECT",
-      "price": "470.00",
       "status": "1"
     },
-    "INBJ|70538|20261106|PRIME ROWS": {
-      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
-      "time": "10:00 PM",
-      "date": "20261106",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "2"
+    "GPBR|97604|20261108|SOFA": {
+      "venue": "Gopalan Cinemas: Bannerghatta Road",
+      "time": "04:15 PM",
+      "date": "20261108",
+      "cat": "SOFA",
+      "price": "600.00",
+      "status": "0"
     },
-    "INBJ|70538|20261106|CLASSIC PLUS ROWS": {
-      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
-      "time": "10:00 PM",
-      "date": "20261106",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "390.00",
-      "status": "3"
-    },
-    "INBJ|70538|20261106|CLASSIC ROWS": {
-      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
-      "time": "10:00 PM",
-      "date": "20261106",
-      "cat": "CLASSIC ROWS",
-      "price": "350.00",
-      "status": "3"
-    },
-    "SSNR|13267|20261106|GOLD RECLINER": {
+    "SSNR|13276|20261108|GOLD RECLINER": {
       "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
       "time": "06:50 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD RECLINER",
       "price": "750.00",
-      "status": "2"
+      "status": "1"
     },
-    "SSNR|13267|20261106|GOLD": {
+    "SSNR|13276|20261108|GOLD": {
       "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
       "time": "06:50 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
       "price": "500.00",
-      "status": "2"
+      "status": "1"
     },
-    "SSNR|13267|20261106|SILVER": {
+    "SSNR|13276|20261108|SILVER": {
       "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
       "time": "06:50 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "SILVER",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
-    "SSNR|13267|20261106|LOUNGER": {
+    "SSNR|13276|20261108|LOUNGER": {
       "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
       "time": "06:50 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "LOUNGER",
       "price": "350.00",
       "status": "3"
     },
-    "SSNR|13268|20261106|GOLD RECLINER": {
+    "SSNR|13277|20261108|GOLD RECLINER": {
       "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
       "time": "10:30 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD RECLINER",
       "price": "750.00",
       "status": "3"
     },
-    "SSNR|13268|20261106|GOLD": {
+    "SSNR|13277|20261108|GOLD": {
       "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
       "time": "10:30 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
       "price": "500.00",
       "status": "3"
     },
-    "SSNR|13268|20261106|SILVER": {
+    "SSNR|13277|20261108|SILVER": {
       "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
       "time": "10:30 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "SILVER",
       "price": "350.00",
       "status": "3"
     },
-    "SSNR|13268|20261106|LOUNGER": {
+    "SSNR|13277|20261108|LOUNGER": {
       "venue": "Swagath ShankarNag (ONYX) LED Cinema: MG Road",
       "time": "10:30 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "LOUNGER",
       "price": "350.00",
       "status": "3"
     },
-    "GPMY|70161|20261106|GOLD": {
+    "INBJ|70576|20261108|PICTURE PERFECT": {
+      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
+      "time": "01:50 PM",
+      "date": "20261108",
+      "cat": "PICTURE PERFECT",
+      "price": "470.00",
+      "status": "0"
+    },
+    "INBJ|70576|20261108|PRIME ROWS": {
+      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
+      "time": "01:50 PM",
+      "date": "20261108",
+      "cat": "PRIME ROWS",
+      "price": "450.00",
+      "status": "0"
+    },
+    "INBJ|70576|20261108|CLASSIC PLUS ROWS": {
+      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
+      "time": "01:50 PM",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "420.00",
+      "status": "1"
+    },
+    "INBJ|70576|20261108|CLASSIC ROWS": {
+      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
+      "time": "01:50 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
+      "price": "400.00",
+      "status": "2"
+    },
+    "INBJ|70578|20261108|PICTURE PERFECT": {
+      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
+      "time": "10:00 PM",
+      "date": "20261108",
+      "cat": "PICTURE PERFECT",
+      "price": "470.00",
+      "status": "1"
+    },
+    "INBJ|70578|20261108|PRIME ROWS": {
+      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
+      "time": "10:00 PM",
+      "date": "20261108",
+      "cat": "PRIME ROWS",
+      "price": "450.00",
+      "status": "1"
+    },
+    "INBJ|70578|20261108|CLASSIC PLUS ROWS": {
+      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
+      "time": "10:00 PM",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "390.00",
+      "status": "2"
+    },
+    "INBJ|70578|20261108|CLASSIC ROWS": {
+      "venue": "INOX: Garuda Swagath Mall, Jayanagar",
+      "time": "10:00 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "GPMY|70226|20261108|GOLD": {
       "venue": "Gopalan Mall: Sirsi Circle",
       "time": "04:15 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
-      "price": "500.00",
-      "status": "3"
+      "price": "600.00",
+      "status": "2"
     },
-    "GPMY|70162|20261106|GOLD": {
+    "GPMY|70228|20261108|GOLD": {
       "venue": "Gopalan Mall: Sirsi Circle",
       "time": "10:15 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
       "price": "500.00",
       "status": "3"
     },
-    "BALT|2073|20261106|DIAMOND": {
+    "BALT|2081|20261108|DIAMOND": {
       "venue": "Balaji Theatre:Tavarekere(Next to Lakshmi Theatre)",
       "time": "06:00 PM",
-      "date": "20261106",
+      "date": "20261108",
+      "cat": "DIAMOND",
+      "price": "250.00",
+      "status": "2"
+    },
+    "BALT|2081|20261108|GOLD": {
+      "venue": "Balaji Theatre:Tavarekere(Next to Lakshmi Theatre)",
+      "time": "06:00 PM",
+      "date": "20261108",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "2"
+    },
+    "BALT|2082|20261108|DIAMOND": {
+      "venue": "Balaji Theatre:Tavarekere(Next to Lakshmi Theatre)",
+      "time": "10:00 PM",
+      "date": "20261108",
       "cat": "DIAMOND",
       "price": "250.00",
       "status": "3"
     },
-    "BALT|2073|20261106|GOLD": {
+    "BALT|2082|20261108|GOLD": {
       "venue": "Balaji Theatre:Tavarekere(Next to Lakshmi Theatre)",
-      "time": "06:00 PM",
-      "date": "20261106",
+      "time": "10:00 PM",
+      "date": "20261108",
       "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
-    "BALT|2074|20261106|DIAMOND": {
-      "venue": "Balaji Theatre:Tavarekere(Next to Lakshmi Theatre)",
-      "time": "10:00 PM",
-      "date": "20261106",
-      "cat": "DIAMOND",
-      "price": "250.00",
-      "status": "3"
-    },
-    "BALT|2074|20261106|GOLD": {
-      "venue": "Balaji Theatre:Tavarekere(Next to Lakshmi Theatre)",
-      "time": "10:00 PM",
-      "date": "20261106",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "3"
-    },
-    "PDWR|30142|20261106|RECLINER PRIME": {
+    "PDWR|30148|20261108|RECLINER PRIME": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
       "time": "10:15 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "RECLINER PRIME",
       "price": "2400.00",
       "status": "1"
     },
-    "PDWR|30142|20261106|RECLINER": {
+    "PDWR|30148|20261108|RECLINER": {
       "venue": "PVR: Directors Cut, Forum Rex Walk Bengaluru",
       "time": "10:15 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "RECLINER",
       "price": "2200.00",
       "status": "2"
     },
-    "SRPJ|11566|20261106|GOLD": {
-      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
-      "time": "05:30 PM",
-      "date": "20261106",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "SRPJ|11566|20261106|SILVER": {
-      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
-      "time": "05:30 PM",
-      "date": "20261106",
-      "cat": "SILVER",
-      "price": "200.00",
-      "status": "3"
-    },
-    "INBM|55141|20261106|PRIME ROWS": {
+    "INBM|55176|20261108|PRIME ROWS": {
       "venue": "INOX: Brookefield Mall",
       "time": "03:05 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "PRIME ROWS",
+      "price": "480.00",
+      "status": "0"
+    },
+    "INBM|55176|20261108|CLASSIC PLUS ROWS": {
+      "venue": "INOX: Brookefield Mall",
+      "time": "03:05 PM",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "460.00",
+      "status": "0"
+    },
+    "INBM|55176|20261108|CLASSIC ROWS": {
+      "venue": "INOX: Brookefield Mall",
+      "time": "03:05 PM",
+      "date": "20261108",
+      "cat": "CLASSIC ROWS",
+      "price": "420.00",
       "status": "2"
     },
-    "INBM|55141|20261106|CLASSIC PLUS ROWS": {
+    "INBM|55183|20261108|PRIME ROWS": {
       "venue": "INOX: Brookefield Mall",
-      "time": "03:05 PM",
-      "date": "20261106",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "420.00",
-      "status": "3"
+      "time": "10:00 PM",
+      "date": "20261108",
+      "cat": "PRIME ROWS",
+      "price": "480.00",
+      "status": "1"
     },
-    "INBM|55141|20261106|CLASSIC ROWS": {
+    "INBM|55183|20261108|CLASSIC PLUS ROWS": {
       "venue": "INOX: Brookefield Mall",
-      "time": "03:05 PM",
-      "date": "20261106",
+      "time": "10:00 PM",
+      "date": "20261108",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "460.00",
+      "status": "1"
+    },
+    "INBM|55183|20261108|CLASSIC ROWS": {
+      "venue": "INOX: Brookefield Mall",
+      "time": "10:00 PM",
+      "date": "20261108",
       "cat": "CLASSIC ROWS",
       "price": "400.00",
       "status": "3"
     },
-    "RADI|200|20261106|ELITE BALCONY": {
-      "venue": "Swagath LXC Ravi Theatre: Sarjapura",
-      "time": "06:55 PM",
-      "date": "20261106",
-      "cat": "ELITE BALCONY",
-      "price": "300.00",
+    "SDCS|8903|20261108|DIAMOND": {
+      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen1",
+      "time": "04:00 PM",
+      "date": "20261108",
+      "cat": "DIAMOND",
+      "price": "250.00",
+      "status": "1"
+    },
+    "SDCS|8903|20261108|GOLD": {
+      "venue": "Srinivasa Cinema 4K Dolby Atmos SG Palya:Screen1",
+      "time": "04:00 PM",
+      "date": "20261108",
+      "cat": "GOLD",
+      "price": "200.00",
       "status": "2"
     },
-    "RADI|200|20261106|PREMIUM STAR": {
-      "venue": "Swagath LXC Ravi Theatre: Sarjapura",
-      "time": "06:55 PM",
-      "date": "20261106",
-      "cat": "PREMIUM STAR",
+    "SRPJ|11574|20261108|GOLD": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "05:30 PM",
+      "date": "20261108",
+      "cat": "GOLD",
       "price": "250.00",
       "status": "3"
     },
-    "RADI|199|20261106|ELITE BALCONY": {
-      "venue": "Swagath LXC Ravi Theatre: Sarjapura",
-      "time": "10:30 PM",
-      "date": "20261106",
-      "cat": "ELITE BALCONY",
-      "price": "300.00",
+    "SRPJ|11574|20261108|SILVER": {
+      "venue": "Sri Renuka Prasanna Theatre: J P Nagar",
+      "time": "05:30 PM",
+      "date": "20261108",
+      "cat": "SILVER",
+      "price": "200.00",
       "status": "3"
     },
-    "RADI|199|20261106|PREMIUM STAR": {
-      "venue": "Swagath LXC Ravi Theatre: Sarjapura",
-      "time": "10:30 PM",
-      "date": "20261106",
-      "cat": "PREMIUM STAR",
-      "price": "250.00",
-      "status": "3"
-    },
-    "GPSM|65761|20261106|Gold": {
+    "GPSM|65792|20261108|Gold": {
       "venue": "Gopalan Miniplex: Signature Mall, Old Madras Road",
       "time": "06:50 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "Gold",
       "price": "500.00",
-      "status": "3"
+      "status": "2"
     },
-    "CVLG|4496|20261106|VIP EXECUTIVE": {
+    "CVLG|4513|20261108|VIP EXECUTIVE": {
       "venue": "Cinepolis VIP: Lulu Mall, Bengaluru",
       "time": "02:00 PM",
-      "date": "20261106",
+      "date": "20261108",
+      "cat": "VIP EXECUTIVE",
+      "price": "1300.00",
+      "status": "2"
+    },
+    "CVLG|4513|20261108|VIP PREMIUM": {
+      "venue": "Cinepolis VIP: Lulu Mall, Bengaluru",
+      "time": "02:00 PM",
+      "date": "20261108",
+      "cat": "VIP PREMIUM",
+      "price": "1350.00",
+      "status": "0"
+    },
+    "CVLG|4515|20261108|VIP EXECUTIVE": {
+      "venue": "Cinepolis VIP: Lulu Mall, Bengaluru",
+      "time": "10:20 PM",
+      "date": "20261108",
       "cat": "VIP EXECUTIVE",
       "price": "1050.00",
       "status": "3"
     },
-    "CVLG|4496|20261106|VIP PREMIUM": {
+    "CVLG|4515|20261108|VIP PREMIUM": {
       "venue": "Cinepolis VIP: Lulu Mall, Bengaluru",
-      "time": "02:00 PM",
-      "date": "20261106",
+      "time": "10:20 PM",
+      "date": "20261108",
       "cat": "VIP PREMIUM",
       "price": "1100.00",
       "status": "3"
     },
-    "CVLG|4497|20261106|VIP EXECUTIVE": {
+    "CVLG|4580|20261108|VIP EXECUTIVE": {
       "venue": "Cinepolis VIP: Lulu Mall, Bengaluru",
-      "time": "10:20 PM",
-      "date": "20261106",
+      "time": "10:30 PM",
+      "date": "20261108",
       "cat": "VIP EXECUTIVE",
-      "price": "1250.00",
+      "price": "1050.00",
       "status": "3"
     },
-    "CVLG|4497|20261106|VIP PREMIUM": {
+    "CVLG|4580|20261108|VIP PREMIUM": {
       "venue": "Cinepolis VIP: Lulu Mall, Bengaluru",
-      "time": "10:20 PM",
-      "date": "20261106",
+      "time": "10:30 PM",
+      "date": "20261108",
       "cat": "VIP PREMIUM",
-      "price": "1300.00",
-      "status": "1"
-    },
-    "NFGD|75773|20261106|VIP (1 FOR 2 ADMIT)": {
-      "venue": "Newfangled Miniplex (TWIN SEATED): MG Road",
-      "time": "12:45 PM",
-      "date": "20261106",
-      "cat": "VIP (1 FOR 2 ADMIT)",
-      "price": "1600.00",
+      "price": "1100.00",
       "status": "3"
     },
-    "NFGD|75761|20261106|VIP (1 FOR 2 ADMIT)": {
+    "NFGD|75763|20261108|VIP (1 FOR 2 ADMIT)": {
       "venue": "Newfangled Miniplex (TWIN SEATED): MG Road",
       "time": "01:45 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "VIP (1 FOR 2 ADMIT)",
       "price": "1600.00",
-      "status": "3"
-    },
-    "NFGD|75779|20261106|VIP (1 FOR 2 ADMIT)": {
-      "venue": "Newfangled Miniplex (TWIN SEATED): MG Road",
-      "time": "08:15 PM",
-      "date": "20261106",
-      "cat": "VIP (1 FOR 2 ADMIT)",
-      "price": "1800.00",
-      "status": "3"
-    },
-    "NFGD|75767|20261106|VIP (1 FOR 2 ADMIT)": {
-      "venue": "Newfangled Miniplex (TWIN SEATED): MG Road",
-      "time": "09:15 PM",
-      "date": "20261106",
-      "cat": "VIP (1 FOR 2 ADMIT)",
-      "price": "1800.00",
       "status": "2"
     },
-    "GPTB|24389|20261106|GOLD": {
+    "NFGD|75778|20261108|VIP (1 FOR 2 ADMIT)": {
+      "venue": "Newfangled Miniplex (TWIN SEATED): MG Road",
+      "time": "04:30 PM",
+      "date": "20261108",
+      "cat": "VIP (1 FOR 2 ADMIT)",
+      "price": "1600.00",
+      "status": "1"
+    },
+    "NFGD|75766|20261108|VIP (1 FOR 2 ADMIT)": {
+      "venue": "Newfangled Miniplex (TWIN SEATED): MG Road",
+      "time": "05:30 PM",
+      "date": "20261108",
+      "cat": "VIP (1 FOR 2 ADMIT)",
+      "price": "1800.00",
+      "status": "3"
+    },
+    "GPTB|24397|20261108|GOLD": {
       "venue": "Galaxy Paradise (Miniplex): Begur Road",
       "time": "01:45 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "3"
+      "status": "1"
     },
-    "GPTB|24390|20261106|GOLD": {
+    "GPTB|24398|20261108|GOLD": {
       "venue": "Galaxy Paradise (Miniplex): Begur Road",
       "time": "05:30 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
       "price": "200.00",
-      "status": "3"
+      "status": "2"
     },
-    "GPTB|24391|20261106|GOLD": {
+    "GPTB|24399|20261108|GOLD": {
       "venue": "Galaxy Paradise (Miniplex): Begur Road",
       "time": "09:15 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "GOLD",
       "price": "200.00",
       "status": "3"
     },
-    "ANTE|8457|20261106|BALCONY": {
+    "ANTE|8465|20261108|BALCONY": {
       "venue": "Anupama Theatre A/C 4K Dolby: Gandhinagar",
       "time": "01:45 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "BALCONY",
       "price": "250.00",
-      "status": "3"
+      "status": "2"
     },
-    "ANTE|8457|20261106|MIDDLE CLASS": {
+    "ANTE|8465|20261108|MIDDLE CLASS": {
       "venue": "Anupama Theatre A/C 4K Dolby: Gandhinagar",
       "time": "01:45 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "MIDDLE CLASS",
       "price": "200.00",
       "status": "3"
     },
-    "ANTE|8458|20261106|BALCONY": {
+    "ANTE|8466|20261108|BALCONY": {
       "venue": "Anupama Theatre A/C 4K Dolby: Gandhinagar",
       "time": "05:30 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "BALCONY",
       "price": "250.00",
       "status": "3"
     },
-    "ANTE|8458|20261106|MIDDLE CLASS": {
+    "ANTE|8466|20261108|MIDDLE CLASS": {
       "venue": "Anupama Theatre A/C 4K Dolby: Gandhinagar",
       "time": "05:30 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "MIDDLE CLASS",
       "price": "200.00",
       "status": "3"
     },
-    "ANTE|8459|20261106|BALCONY": {
+    "ANTE|8467|20261108|BALCONY": {
       "venue": "Anupama Theatre A/C 4K Dolby: Gandhinagar",
       "time": "09:00 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "BALCONY",
       "price": "250.00",
       "status": "3"
     },
-    "ANTE|8459|20261106|MIDDLE CLASS": {
+    "ANTE|8467|20261108|MIDDLE CLASS": {
       "venue": "Anupama Theatre A/C 4K Dolby: Gandhinagar",
       "time": "09:00 PM",
-      "date": "20261106",
+      "date": "20261108",
       "cat": "MIDDLE CLASS",
       "price": "200.00",
       "status": "3"
     }
   },
   "dates": {
-    "20261106": "BOOKABLE",
-    "20261107": "AVAILABLE",
-    "20261108": "AVAILABLE",
+    "20261108": "BOOKABLE",
     "20261109": "AVAILABLE",
     "20261110": "AVAILABLE",
     "20261111": "AVAILABLE",
-    "20261112": "AVAILABLE"
+    "20261112": "AVAILABLE",
+    "20261113": "NOT_OPEN",
+    "20261114": "NOT_OPEN"
   }
 }
